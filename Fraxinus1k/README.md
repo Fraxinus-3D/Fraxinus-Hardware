@@ -25,8 +25,8 @@ See [https://fraxinus.jp/docs/assembly/step1/](https://fraxinus.jp/docs/assembly
 | [Holder_Fan_5015_r.stl](./STLs/Holder_Fan_5015_r.stl)| <img src="images/Holder_Fan_5015_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Head-belt_r.stl](./STLs/Holder_Head-belt_r.stl)| <img src="images/Holder_Head-belt_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Hotend_KP3S_21b.stl](./STLs/Holder_Hotend_KP3S_21b.stl)| <img src="images/Holder_Hotend_KP3S_21b.stl.png" width="100px"> | ABS | 1 |
-| [Holder_Idler_L_r.stl](./STLs/Holder_Idler_L_r.stl)| <img src="images/Holder_Idler_L_r.stl.png" width="100px"> | ABS | 2 |
-| [Holder_Idler_R_r.stl](./STLs/Holder_Idler_R_r.stl)| <img src="images/Holder_Idler_R_r.stl.png" width="100px"> | ABS | 2 |
+| [Holder_Idler_L_r.stl](./STLs/Holder_Idler_L_r.stl)| <img src="images/Holder_Idler_L_r.stl.png" width="100px"> | ABS | 1 |
+| [Holder_Idler_R_r.stl](./STLs/Holder_Idler_R_r.stl)| <img src="images/Holder_Idler_R_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Motor_E_Mold_r.stl](./STLs/Holder_Motor_E_Mold_r.stl)| <img src="images/Holder_Motor_E_Mold_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_PCB_Main_r.stl](./STLs/Holder_PCB_Main_r.stl)| <img src="images/Holder_PCB_Main_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Raspi3_Back-virtical_r.stl](./STLs/Holder_Raspi3_Back-virtical_r.stl)| <img src="images/Holder_Raspi3_Back-virtical_r.stl.png" width="100px"> | ABS | 1 (optional) |
