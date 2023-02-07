@@ -37,6 +37,7 @@ See [https://fraxinus.jp/docs/assembly/step1/](https://fraxinus.jp/docs/assembly
 | [Holder_Z_Nut_1k_r.stl](./STLs/Holder_Z_Nut_1k_r.stl)| <img src="images/Holder_Z_Nut_1k_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Z_Shaft_1k.stl](./STLs/Holder_Z_Shaft_1k.stl)| <img src="images/Holder_Z_Shaft_1k.stl.png" width="100px"> | ABS | 1 |
 | [Limit_Knob_r.stl](./STLs/Limit_Knob_r.stl)| <img src="images/Limit_Knob_r.stl.png" width="100px"> | ABS | 1 (optional) |
+| [Long_Nut_25x7_r.stl](./STLs/Long_Nut_25x7_r.stl)| <img src="images/Long_Nut_25x7_r.stl.png" width="100px"> | ABS | 2 |
 | [M2_Adapter_85mm_r.stl](./STLs/M2_Adapter_85mm_r.stl)| <img src="images/M2_Adapter_85mm_r.stl.png" width="100px"> | ABS | 6 |
 | [Post_PCB_Main_r.stl](./STLs/Post_PCB_Main_r.stl)| <img src="images/Post_PCB_Main_r.stl.png" width="100px"> | ABS | 1 |
 | [Skirt_Front1_L_r.stl](./STLs/Skirt_Front1_L_r.stl)| <img src="images/Skirt_Front1_L_r.stl.png" width="100px"> | ABS | 1 |
