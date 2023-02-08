@@ -45,8 +45,8 @@ See [https://fraxinus.jp/docs/assembly/step1/](https://fraxinus.jp/docs/assembly
 | [Skirt_Front1_R_r.stl](./STLs/Skirt_Front1_R_r.stl)| <img src="images/Skirt_Front1_R_r.stl.png" width="100px"> | ABS | 1 |
 | [Skirt_Side_L_r.stl](./STLs/Skirt_Side_L_r.stl)| <img src="images/Skirt_Side_L_r.stl.png" width="100px"> | ABS | 2 |
 | [Skirt_Side_R_r.stl](./STLs/Skirt_Side_R_r.stl)| <img src="images/Skirt_Side_R_r.stl.png" width="100px"> | ABS | 2 |
-| [Spacer_2020_M3_r.stl](./STLs/Spacer_2020_M3_r.stl)| <img src="images/Spacer_2020_M3_r.stl.png" width="100px"> | ABS | 6 |
-| [Spacer_2020_M4_r.stl](./STLs/Spacer_2020_M4_r.stl)| <img src="images/Spacer_2020_M4_r.stl.png" width="100px"> | ABS | 6 |
+| [Spacer_2020_M3_r.stl](./STLs/Spacer_2020_M3_r.stl)| <img src="images/Spacer_2020_M3_r.stl.png" width="100px"> | ABS | 6 (optional) |
+| [Spacer_2020_M4_r.stl](./STLs/Spacer_2020_M4_r.stl)| <img src="images/Spacer_2020_M4_r.stl.png" width="100px"> | ABS | 6 (optional) |
 | [Spacer_4.2-8_9mmt_r.stl](./STLs/Spacer_4.2-8_9mmt_r.stl)| <img src="images/Spacer_4.2-8_9mmt_r.stl.png" width="100px"> | ABS | 6 |
 | [Spacer_E_Mounter_r.stl](./STLs/Spacer_E_Mounter_r.stl)| <img src="images/Spacer_E_Mounter_r.stl.png" width="100px"> | ABS | 1 |
 | [Tensioner_Knob_r.stl](./STLs/Tensioner_Knob_r.stl)| <img src="images/Tensioner_Knob_r.stl.png" width="100px"> | ABS | 6 (4 of them are optional) |
