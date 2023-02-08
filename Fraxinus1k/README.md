@@ -21,6 +21,7 @@ See [https://fraxinus.jp/docs/assembly/step1/](https://fraxinus.jp/docs/assembly
 | [Frame_Motor_A2_r.stl](./STLs/Frame_Motor_A2_r.stl)| <img src="images/Frame_Motor_A2_r.stl.png" width="100px"> | ABS | 1 |
 | [Frame_Motor_B1_r.stl](./STLs/Frame_Motor_B1_r.stl)| <img src="images/Frame_Motor_B1_r.stl.png" width="100px"> | ABS | 1 |
 | [Frame_Motor_B2_r.stl](./STLs/Frame_Motor_B2_r.stl)| <img src="images/Frame_Motor_B2_r.stl.png" width="100px"> | ABS | 1 |
+| [Hand_Twist_Nut.stl](./STLs/Hand_Twist_Nut.stl)| <img src="images/Hand_Twist_Nut.stl.png" width="100px"> | ABS | 4 (optional) |
 | [Holder_AC_Switch_r.stl](./STLs/Holder_AC_Switch_r.stl)| <img src="images/Holder_AC_Switch_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Fan_5015_r.stl](./STLs/Holder_Fan_5015_r.stl)| <img src="images/Holder_Fan_5015_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Head-belt_r.stl](./STLs/Holder_Head-belt_r.stl)| <img src="images/Holder_Head-belt_r.stl.png" width="100px"> | ABS | 1 |
