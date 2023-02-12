@@ -21,6 +21,7 @@ See [https://fraxinus.jp/docs/assembly/step1/](https://fraxinus.jp/docs/assembly
 | [Frame_Motor_A2_r.stl](./STLs/Frame_Motor_A2_r.stl)| <img src="images/Frame_Motor_A2_r.stl.png" width="100px"> | ABS | 1 |
 | [Frame_Motor_B1_r.stl](./STLs/Frame_Motor_B1_r.stl)| <img src="images/Frame_Motor_B1_r.stl.png" width="100px"> | ABS | 1 |
 | [Frame_Motor_B2_r.stl](./STLs/Frame_Motor_B2_r.stl)| <img src="images/Frame_Motor_B2_r.stl.png" width="100px"> | ABS | 1 |
+| [Hand_Twist_Nut.stl](./STLs/Hand_Twist_Nut.stl)| <img src="images/Hand_Twist_Nut.stl.png" width="100px"> | ABS | 4 (optional) |
 | [Holder_AC_Switch_r.stl](./STLs/Holder_AC_Switch_r.stl)| <img src="images/Holder_AC_Switch_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Fan_5015_r.stl](./STLs/Holder_Fan_5015_r.stl)| <img src="images/Holder_Fan_5015_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Head-belt_r.stl](./STLs/Holder_Head-belt_r.stl)| <img src="images/Holder_Head-belt_r.stl.png" width="100px"> | ABS | 1 |
@@ -37,14 +38,15 @@ See [https://fraxinus.jp/docs/assembly/step1/](https://fraxinus.jp/docs/assembly
 | [Holder_Z_Nut_1k_r.stl](./STLs/Holder_Z_Nut_1k_r.stl)| <img src="images/Holder_Z_Nut_1k_r.stl.png" width="100px"> | ABS | 1 |
 | [Holder_Z_Shaft_1k.stl](./STLs/Holder_Z_Shaft_1k.stl)| <img src="images/Holder_Z_Shaft_1k.stl.png" width="100px"> | ABS | 1 |
 | [Limit_Knob_r.stl](./STLs/Limit_Knob_r.stl)| <img src="images/Limit_Knob_r.stl.png" width="100px"> | ABS | 1 (optional) |
+| [Long_Nut_25x7_r.stl](./STLs/Long_Nut_25x7_r.stl)| <img src="images/Long_Nut_25x7_r.stl.png" width="100px"> | ABS | 2 |
 | [M2_Adapter_85mm_r.stl](./STLs/M2_Adapter_85mm_r.stl)| <img src="images/M2_Adapter_85mm_r.stl.png" width="100px"> | ABS | 6 |
 | [Post_PCB_Main_r.stl](./STLs/Post_PCB_Main_r.stl)| <img src="images/Post_PCB_Main_r.stl.png" width="100px"> | ABS | 1 |
 | [Skirt_Front1_L_r.stl](./STLs/Skirt_Front1_L_r.stl)| <img src="images/Skirt_Front1_L_r.stl.png" width="100px"> | ABS | 1 |
 | [Skirt_Front1_R_r.stl](./STLs/Skirt_Front1_R_r.stl)| <img src="images/Skirt_Front1_R_r.stl.png" width="100px"> | ABS | 1 |
 | [Skirt_Side_L_r.stl](./STLs/Skirt_Side_L_r.stl)| <img src="images/Skirt_Side_L_r.stl.png" width="100px"> | ABS | 2 |
 | [Skirt_Side_R_r.stl](./STLs/Skirt_Side_R_r.stl)| <img src="images/Skirt_Side_R_r.stl.png" width="100px"> | ABS | 2 |
-| [Spacer_2020_M3_r.stl](./STLs/Spacer_2020_M3_r.stl)| <img src="images/Spacer_2020_M3_r.stl.png" width="100px"> | ABS | 6 |
-| [Spacer_2020_M4_r.stl](./STLs/Spacer_2020_M4_r.stl)| <img src="images/Spacer_2020_M4_r.stl.png" width="100px"> | ABS | 6 |
+| [Spacer_2020_M3_r.stl](./STLs/Spacer_2020_M3_r.stl)| <img src="images/Spacer_2020_M3_r.stl.png" width="100px"> | ABS | 6 (optional) |
+| [Spacer_2020_M4_r.stl](./STLs/Spacer_2020_M4_r.stl)| <img src="images/Spacer_2020_M4_r.stl.png" width="100px"> | ABS | 6 (optional) |
 | [Spacer_4.2-8_9mmt_r.stl](./STLs/Spacer_4.2-8_9mmt_r.stl)| <img src="images/Spacer_4.2-8_9mmt_r.stl.png" width="100px"> | ABS | 6 |
 | [Spacer_E_Mounter_r.stl](./STLs/Spacer_E_Mounter_r.stl)| <img src="images/Spacer_E_Mounter_r.stl.png" width="100px"> | ABS | 1 |
 | [Tensioner_Knob_r.stl](./STLs/Tensioner_Knob_r.stl)| <img src="images/Tensioner_Knob_r.stl.png" width="100px"> | ABS | 6 (4 of them are optional) |
