@@ -1,6 +1,6 @@
 # Fraxinus1k
 
-See [https://fraxinus.jp/docs/assembly/step1/](https://fraxinus.jp/docs/assembly/step1/) for details.
+See [https://fraxinus.jp/docs/assembly/1k/step1/](https://fraxinus.jp/docs/assembly/1k/step1/) for details.
 
 
 | STL file | thumbnail | filament | print qty. |
